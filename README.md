@@ -142,7 +142,8 @@ public class MainActivity extends AppCompatActivity {
         android:layout_height="wrap_content"
         android:backgroundTint="#03E2FF"
         android:text="Subtract" />
-
+```
+```
     <Button
         android:id="@+id/btnMul"
         android:layout_width="match_parent"
